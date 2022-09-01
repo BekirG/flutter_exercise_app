@@ -1,6 +1,12 @@
 # exercises_app
 
-A new Flutter application.
+This is my first Flutter project. <a href="https://www.exercisedb.io/">ExerciseDB API </a> was used while developing this application.The ExerciseDB gives you access to over 1300 exercises with individual exercise data and animated demonstrations. 
+
+<a href="https://riverpod.dev/">Riverpod</a> is used for flutter state management.
+
+Example:
+
+![](ExerciseApp.gif)
 
 ## Getting Started
 
